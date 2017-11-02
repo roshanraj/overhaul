@@ -2,7 +2,7 @@
 import Vue from 'vue';
 
 
-let baseURL = 'http://139.59.0.105:6543';
+let baseURL = 'http://overhaulindia.com';
 
 export const endPoint = {
   login: 'api/v1/admin/auth',
