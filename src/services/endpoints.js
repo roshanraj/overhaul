@@ -2,7 +2,7 @@
 import Vue from 'vue';
 
 
-let baseURL = 'http://overhaulindia.com';
+let baseURL = 'https://overhaulindia.com';
 
 export const endPoint = {
   login: 'api/v1/admin/auth',
